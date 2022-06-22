@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "conio.h": "c",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
